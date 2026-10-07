@@ -34,4 +34,8 @@ One of you is a cube. The other is a sphere. Together you are just heavy enough,
 
 ## Follow Along
 
-*Social media links coming soon.*
+Find more from the team:
+
+<a href="https://www.facebook.com/StartTheFunLearning"><img src="./iCONS/facebook.png" alt="Facebook" width="40"></a>
+<a href="https://www.instagram.com/nerdart_gamediv/"><img src="./iCONS/instagram.png" alt="Instagram" width="40"></a>
+<a href="https://www.youtube.com/@NerdArt2023"><img src="./iCONS/youtube.png" alt="YouTube" width="40"></a>
