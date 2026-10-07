@@ -10,6 +10,35 @@ A heavy cube and a light sphere have to cross the course as one pair. The cube c
 
 One of you is a cube. The other is a sphere. Together you are just heavy enough, just light enough, and just stubborn enough to get through. Launch your friend, stand on the switch together, and don’t let go.
 
+## How to Play
+
+Two players share one keyboard. The cube uses the left side of the keyboard, and the sphere uses the arrow keys. Each character also has an on-screen joystick: push it up to jump, or push it sideways to move.
+
+### Cube
+
+| Key | Action |
+|---|---|
+| `A` | Move right |
+| `D` | Move left |
+| `W` | Jump |
+| `Space` | Throw the sphere when it is close |
+
+### Sphere
+
+| Key | Action |
+|---|---|
+| `Left Arrow` | Move right |
+| `Right Arrow` | Move left |
+| `Up Arrow` | Jump |
+| Hold `Left Ctrl` while jumping | Short speed boost |
+
+### Both Players
+
+| Key | Action |
+|---|---|
+| `Space` | Skip dialogue |
+| `Esc` | Pause the game |
+
 ## Screenshots
 
 ### Screenshot 1
