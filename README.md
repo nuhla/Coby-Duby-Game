@@ -30,7 +30,7 @@ One of you is a cube. The other is a sphere. Together you are just heavy enough,
 
 ## Play the Game
 
-*Itch.io page coming soon.*
+[Play Cuby Duby on itch.io](https://yazed-hasan.itch.io/cube-dobe)
 
 ## Follow Along
 
