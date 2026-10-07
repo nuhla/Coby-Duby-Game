@@ -12,7 +12,9 @@ One of you is a cube. The other is a sphere. Together you are just heavy enough,
 
 ## Screenshots
 
-*Screenshots and gameplay images coming soon.*
+| Gameplay | Gameplay | Gameplay |
+|:---:|:---:|:---:|
+| ![Cuby Duby gameplay screenshot](images/s.JPG) | ![Cuby Duby gameplay screenshot](images/Capture.JPG) | ![Cuby Duby gameplay screenshot](images/3.JPG) |
 
 ## Watch the Game
 
