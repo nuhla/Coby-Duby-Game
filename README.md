@@ -26,7 +26,7 @@ One of you is a cube. The other is a sphere. Together you are just heavy enough,
 
 ## Watch the Game
 
-*YouTube gameplay or trailer link coming soon.*
+[Watch Cuby Duby on YouTube](https://www.youtube.com/watch?v=GHCxCLJEKj4)
 
 ## Play the Game
 
