@@ -1,1 +1,27 @@
-# Coby-Duby-Game
+# Cuby Duby
+
+> A two-player physics platformer about teamwork, timing, and getting through the course together.
+
+**Gaza Sky Geeks GameJam 2025 — Winner of First Prize and Most Fun Game**
+
+## About the Game
+
+A heavy cube and a light sphere have to cross the course as one pair. The cube can launch the sphere, some switches only move under real weight, and others stay shut until both of them are standing on them. If one falls, they both come back.
+
+One of you is a cube. The other is a sphere. Together you are just heavy enough, just light enough, and just stubborn enough to get through. Launch your friend, stand on the switch together, and don’t let go.
+
+## Screenshots
+
+*Screenshots and gameplay images coming soon.*
+
+## Watch the Game
+
+*YouTube gameplay or trailer link coming soon.*
+
+## Play the Game
+
+*Itch.io page coming soon.*
+
+## Follow Along
+
+*Social media links coming soon.*
